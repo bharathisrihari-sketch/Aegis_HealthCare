@@ -1,0 +1,7 @@
+{
+  "name": "AegisHealth BRICS — Federated Health Supply & PHC Resilience Platform",
+  "description": "National-scale federated AI platform for real-time Primary Health Centre visibility, medicine stock-out forecasting, automated cross-district rebalancing, and cross-BRICS predictive pandemic resilience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
